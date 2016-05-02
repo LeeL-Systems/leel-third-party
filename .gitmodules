@@ -1,3 +1,8 @@
 [submodule "boost"]
 	path = boost
 	url = https://github.com/LeeL-Systems/boost.git
+  ignore = dirty
+[submodule "raspberrypi/tools"]
+	path = raspberrypi/tools
+	url = https://github.com/raspberrypi/tools.git
+  ignore = dirty
