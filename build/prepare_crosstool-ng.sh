@@ -23,7 +23,7 @@ cd ../crosstool-ng/installer
 bin_dir="${HOME}/bin"
 echo "User bin Dir: ${bin_dir}"
 
-installation_dir="${bin_dir}/crosstool-ng"
+installation_dir="${bin_dir}/leel-toolchain/tools/crosstool-ng_1.22.0"
 echo "Installation Dir: ${installation_dir}"
 mkdir -p "${installation_dir}"
 
