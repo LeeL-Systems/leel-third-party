@@ -6,3 +6,6 @@
 	path = raspberrypi/tools
 	url = https://github.com/raspberrypi/tools.git
   ignore = dirty
+[submodule "googletest"]
+	path = googletest
+	url = https://github.com/LeeL-Systems/googletest.git
