@@ -9,6 +9,8 @@
 [submodule "googletest"]
 	path = googletest
 	url = https://github.com/LeeL-Systems/googletest.git
+  ignore = dirty
 [submodule "styleguide"]
 	path = styleguide
 	url = https://github.com/LeeL-Systems/styleguide.git
+  ignore = dirty
