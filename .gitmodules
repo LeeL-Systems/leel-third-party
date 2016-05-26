@@ -9,3 +9,6 @@
 [submodule "googletest"]
 	path = googletest
 	url = https://github.com/LeeL-Systems/googletest.git
+[submodule "styleguide"]
+	path = styleguide
+	url = https://github.com/LeeL-Systems/styleguide.git
