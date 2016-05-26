@@ -2,10 +2,6 @@
 	path = boost
 	url = https://github.com/LeeL-Systems/boost.git
   ignore = dirty
-[submodule "crosstool-ng"]
-	path = crosstool-ng
-	url = https://github.com/crosstool-ng/crosstool-ng.git
-  ignore = dirty
 [submodule "googletest"]
 	path = googletest
 	url = https://github.com/LeeL-Systems/googletest.git
