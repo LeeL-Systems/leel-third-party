@@ -10,3 +10,6 @@
 	path = styleguide
 	url = https://github.com/LeeL-Systems/styleguide.git
   ignore = dirty
+[submodule "Boost-Pretty-Printer"]
+	path = Boost-Pretty-Printer
+	url = https://github.com/ruediger/Boost-Pretty-Printer.git
