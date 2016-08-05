@@ -13,3 +13,6 @@
 [submodule "Boost-Pretty-Printer"]
 	path = Boost-Pretty-Printer
 	url = https://github.com/ruediger/Boost-Pretty-Printer.git
+[submodule "rapidjson"]
+	path = rapidjson
+	url = https://github.com/miloyip/rapidjson.git
